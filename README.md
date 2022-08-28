@@ -1,5 +1,5 @@
 ### Hola 👋, Soy Alejandro Busi
-![Sin título-12](https://user-images.githubusercontent.com/83433159/125343458-78390100-e32c-11eb-9fdc-74dccefbfeae.png)
+[comment]: <> (![Sin título-12](https://user-images.githubusercontent.com/83433159/125343458-78390100-e32c-11eb-9fdc-74dccefbfeae.png))
 #### Desarrollador web
 Aprendiendo dia a dia, mi objetivo es crecer como desarrollador y como persona constantemente. Actualmente capacitandome en RollingCode School.
 
